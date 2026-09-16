@@ -23,7 +23,8 @@ push notifications, all from a small SwiftUI app.
 ## Requirements
 
 - Xcode 16+
-- iOS 17+ (deployment target may vary — check the project settings)
+- iOS 17.0 or later — runs on iPhone and iPad (roughly iPhone XS/XR and
+  newer, or any device that can update to iOS 17)
 - A free or paid Apple ID to build and run on your own device
 
 ## Getting started
