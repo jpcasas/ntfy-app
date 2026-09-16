@@ -68,20 +68,19 @@ ntfy,notification,notifications,push,pubsub,selfhosted,server,alert,topic,messag
 ## Support URL
 
 ```
-(add a URL where users can reach you — e.g. a GitHub repo Issues page, or a mailto: is not accepted here, needs to be a real webpage)
+https://github.com/jpcasas/ntfy-app/issues
 ```
 
 ## Marketing URL (optional)
 
 ```
-(optional — e.g. the GitHub repo URL once published)
+https://github.com/jpcasas/ntfy-app
 ```
 
 ## Privacy Policy URL
 
 ```
-(add the hosted URL for PRIVACY.md once the repo is public — e.g. via
-GitHub Pages, or the raw/blob GitHub URL as a simpler alternative)
+https://github.com/jpcasas/ntfy-app/blob/main/PRIVACY.md
 ```
 
 ## Copyright
